@@ -108,3 +108,7 @@ venv.bak/
 *.pkl
 *-solved.ipynb
 
+### PyCharm+all ###
+# Ignores the whole .idea folder and all .iml files
+
+.idea/
